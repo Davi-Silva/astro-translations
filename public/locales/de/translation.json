@@ -1,0 +1,8 @@
+{
+  "components": {
+    "card": {
+      "title": "Dies ist eine Karte",
+      "description": "Dies ist eine Kartenbeschreibung"
+    }
+  }
+}

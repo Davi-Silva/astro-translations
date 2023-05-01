@@ -1,0 +1,8 @@
+{
+  "components": {
+    "card": {
+      "title": "This is a card",
+      "description": "This a card Description"
+    }
+  }
+}
